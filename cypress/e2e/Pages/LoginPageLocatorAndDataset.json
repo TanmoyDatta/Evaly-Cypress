@@ -1,0 +1,9 @@
+{
+    "signUp_BTN": "//span[@class='hidden md:inline-block']",
+    "enter_mail": "//input[@placeholder='Enter Email']",
+    "enter_password":"//input[@placeholder='Enter Password']",
+    "login_BTN":"//button[@type='submit']",
+
+    "mail": "mrtanmoy64@gmail.com",
+    "password": "password123#"
+}
