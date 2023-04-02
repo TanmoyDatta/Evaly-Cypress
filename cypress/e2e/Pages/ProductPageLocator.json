@@ -1,0 +1,9 @@
+{
+    "price":"//span[normalize-space()='Price']",
+    "NextPage": "//a[@aria-label='Next page']",
+
+    "Nextpage_product": "//p[@title='Colmi P8 Max PMMA Full Coverage Screen Protector']",
+    "productPrice":"//p[@class='text-base font-semibold text-blue-500']",
+    "AddToCart":"//button[@class='btn type-info size-default     ']",
+    "ViewCart":"//span[normalize-space()='View Cart']"
+}
