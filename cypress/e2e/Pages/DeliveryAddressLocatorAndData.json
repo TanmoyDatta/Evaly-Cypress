@@ -1,0 +1,18 @@
+{
+    "FullName": "//input[@placeholder='Enter full name']",
+    "ContactNumber": "//input[@placeholder='01xxxxxxxxx']",
+    "City":"//span[normalize-space()='Metropolitan City']",
+    "Division":"//select[@name='division']",
+    "District":"//body[1]/div[2]/div[2]/main[1]/div[1]/div[1]/form[1]/div[1]/label[2]/div[1]/select[1]",
+    "Sub_District":"//body[1]/div[2]/div[2]/main[1]/div[1]/div[1]/form[1]/div[1]/label[3]/div[1]/select[1]",
+    "House":"//input[@placeholder='Enter house/holding no']",
+    "Area":"//input[@placeholder='Enter area']",
+    "StreetAddress":"//input[@placeholder='Enter road no, house no etc']",
+    "Submit_BTN":"//div[contains(@class,'p-4 bg-white shadow mb-10')]//button[contains(@class,'')]",
+    
+    "FullName_value":"Mr. ABC",
+    "ContactNumber_value":"01234567899",
+    "House_value":"148/6/A",
+    "Area_value":"Dhaka 1216",
+    "StreetAddress_value":"Mirpur 1"
+}

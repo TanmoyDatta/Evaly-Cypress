@@ -19,6 +19,15 @@ export function scroll(xpath) {
 export function Click(xpath) {
   return cy.xpath(xpath).click();
 }
+export function findlocator(xpath){
+  return cy.xpath(xpath)
+}
+// export function Radio(xpath){
+//   return cy.xpath(xpath).check();
+// }
+// export function Selct(xpath, number){
+//   return cy.xpath(xpath).select(number);
+// }
 export function takeFullscreenshot(scName) {
   return cy.screenshot(scName);
 }
